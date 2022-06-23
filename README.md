@@ -8,21 +8,6 @@ We usually meet up on the second Thursday every month at [FINN.no's offices][fin
 
 Events are scheduled on the [BeerJS Oslo Meetup group][meetup].
 
-## Want to bring beer?
-
-Sure you do! FINN sponsors 2-3 beers per person, but you're welcome to bring your own. Please keep in mind that the event ends at 21:30. Those who wish to continue beering and programming can do so, we recommend one of our neighbours, either [Brygg][brygg] or [Jaeger][jaeger].
-
-## Stickers
-
-[Stickermule][stickermule] have been kind enough to sponsor us with some awesome stickers to help spread the word! The stickers, as well as freebies from FINN, will be available at our events.
-
-Huge thank you to
-
-[![Stickermule logo][stickermule-logo]][stickermule]
-
-and of course
-
-[![FINN.no][pusefinn_img]][finn.no]
 
 [finn]: https://goo.gl/maps/ijUVNCRVPzN2
 [finn.no]: https://www.finn.no/
