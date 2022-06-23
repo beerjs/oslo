@@ -4,7 +4,7 @@ BeerJS Oslo is for developers to get together, throw back a few cold ones, and w
 
 ## Want to hang out?
 
-We usually meet up on the second Thursday every month at [FINN.no's offices][finn].
+We usually meet up once a month at [FINN.no's offices][finn].
 
 Events are scheduled on the [BeerJS Oslo Meetup group][meetup].
 
